@@ -1,0 +1,11 @@
+total 204
+drwxr-xr-x  5 user user  4096 Feb 19 10:32 .
+drwxr-xr-x 20 root root  4096 Feb 13 18:38 ..
+drwxr-xr-x  4 user user  4096 Feb 13 00:53 .agent_hooks
+-rw-r--r--  1 root root  8087 Feb 19 10:30 README.md
+-rw-r--r--  1 root root 47315 Feb 19 10:26 app.js
+drwxr-xr-x  2 root root  4096 Feb 19 10:28 css
+-rw-r--r--  1 root root 50567 Feb 19 10:21 index.html
+drwxr-xr-x  2 root root  4096 Feb 19 10:46 outputs
+-rw-r--r--  1 root root 73258 Feb 19 10:14 owner-photo.jpg
+-rw-r--r--  1 root root  1305 Feb 19 10:46 todo.md

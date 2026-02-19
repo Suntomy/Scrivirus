@@ -1,0 +1,17 @@
+127.0.0.1 - - [19/Feb/2026 10:58:41] "GET /?password=068209bf-10aa-4ea9-9c5d-1e2ee4379227 HTTP/1.1" 200 -
+172.16.0.1 - - [19/Feb/2026 10:58:41] "GET /?hideControls=true&password=068209bf-10aa-4ea9-9c5d-1e2ee4379227 HTTP/1.1" 200 -
+172.16.0.1 - - [19/Feb/2026 10:58:42] code 404, message File not found
+172.16.0.1 - - [19/Feb/2026 10:58:42] "GET /css/alertify.bootstrap.css HTTP/1.1" 404 -
+172.16.0.1 - - [19/Feb/2026 10:58:42] code 404, message File not found
+172.16.0.1 - - [19/Feb/2026 10:58:42] "GET /css/alertify.core.css HTTP/1.1" 404 -
+172.16.0.1 - - [19/Feb/2026 10:58:43] "GET /app.js HTTP/1.1" 200 -
+172.16.0.1 - - [19/Feb/2026 10:58:43] code 404, message File not found
+172.16.0.1 - - [19/Feb/2026 10:58:43] "GET /css/alertify.default.css HTTP/1.1" 404 -
+172.16.0.1 - - [19/Feb/2026 11:02:00] "GET /?hideControls=true&password=068209bf-10aa-4ea9-9c5d-1e2ee4379227 HTTP/1.1" 200 -
+172.16.0.1 - - [19/Feb/2026 11:02:01] code 404, message File not found
+172.16.0.1 - - [19/Feb/2026 11:02:01] "GET /css/alertify.default.css HTTP/1.1" 404 -
+172.16.0.1 - - [19/Feb/2026 11:02:01] code 404, message File not found
+172.16.0.1 - - [19/Feb/2026 11:02:01] "GET /css/alertify.bootstrap.css HTTP/1.1" 404 -
+172.16.0.1 - - [19/Feb/2026 11:02:01] code 404, message File not found
+172.16.0.1 - - [19/Feb/2026 11:02:01] "GET /css/alertify.core.css HTTP/1.1" 404 -
+172.16.0.1 - - [19/Feb/2026 11:02:01] "GET /app.js HTTP/1.1" 200 -
